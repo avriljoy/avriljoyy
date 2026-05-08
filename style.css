@@ -1,0 +1,134 @@
+img {
+    border-radius: 20%;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 8;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+}
+
+header {
+    background-color: #e4c2e4;
+    text-align: center;
+    color: black;
+    padding: 20px;
+    border-radius: 8px;
+}
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header h2 {
+    margin: 5px;
+    font-style: italic;
+}
+
+main {
+    margin: 10;
+    padding: 30px;
+    border-style: dashed;
+    background-color: white;
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+main h3 {
+    font-style: arial;
+    text-align: center;
+    background-color: #D8BFD8;
+    border-radius: 5px;
+}
+
+main p {
+    text-align: center;
+    text-align: justify;
+    font-style: bold;
+}
+
+.academic {
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+main h4 {
+    font-style: arial;
+    text-align: center;
+    background-color: #D8BFD8;
+    border-radius: 5px;
+}
+
+main p1 {
+    font-style: italic;
+}
+
+.career {
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+main h5 {
+    font-style: arial;
+    font-size: 1.0em;
+    text-align: center;
+    background-color: #D8BFD8;
+    border-radius: 5px;
+}
+
+main p2 {
+    text-align: center;
+    text-align: justify;
+    font-style: italic;
+}
+
+.skills {
+    width: 50%;
+    margin: 0;
+    padding: 10px;
+}
+
+main h6 {
+    font-style: arial;
+    font-size: 1.0em;
+    text-align: center;
+    background-color: #D8BFD8;
+    border-radius: 5px;
+
+}
+
+main p3 {
+    font-style: italic;
+}
+
+.personal {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+
+main h7 {
+    font-style: arial;
+    text-align: center;
+    background-color: #D8BFD8;
+    border-radius: 5px;
+}
+
+main p4 {
+    text-align: center;
+    text-align: justify;
+    font-style: italic;
+}
